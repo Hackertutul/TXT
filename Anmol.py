@@ -403,8 +403,8 @@ __________________×______________________
  
   Github   :  Tutul75o
 
-  Facebook : Tutul Mr.
-  
+  Facebook: Tutul Mr.                 (50% Ok Account Open Just Now)
+  WhatsApp: 01608843956
 __________________×______________________\033[1;37m""")
 
 class Main:
@@ -420,6 +420,8 @@ class Main:
 		print(" [3] Create File")
 		print(" [4] 2008-9 Cloning")
 		print(" [5] 2011-14 Cloning")
+		print(" [6] 2004-2005 Cloning Paid")
+		print(" [7] 2006-2007 Cloning Paid")
 		print(" [E] Exit Programming\n")
 		TUTUL =input(" Choose : ")
 		if TUTUL in ["1", "01"]:
